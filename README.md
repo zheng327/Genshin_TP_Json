@@ -1,6 +1,10 @@
 # Genshin_TP_Json
 原神传送坐标文件收集  
-本json需要配合ak/bk/ac使用  
+![GitHub followers](https://img.shields.io/github/followers/snowdreams1006.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/snowdreams1006/snowdreams1006.github.io.svg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/snowdreams1006/snowdreams1006.github.io.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/snowdreams1006/snowdreams1006.github.io.svg?style=social)
+本json需要配合*ak/bk/ac*使用  
 ### 食用方法：  
 #### https://www.kdocs.cn/l/clbwQmVi3djK  
 #### https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh  
