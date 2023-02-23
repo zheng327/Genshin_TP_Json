@@ -1,0 +1,2705 @@
+{
+    "current_profile": "daily",
+    "profiles": {
+        "daily": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Seelie": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoChallenge": {
+                "CustomChallange": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoDestroy": {
+                "DestroyDoodads": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyShields": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoLoot": {
+                "AutoDisablePickupWhenAddItemExceedLimit": {
+                    "toggled": false,
+                    "value": null
+                },
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": 117
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "CustomRange": 40.0,
+                "DelayTime": 250,
+                "DelayTimeFluctuation": 150,
+                "Investigate": true,
+                "Others": true,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseDelayTimeFluctuation": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "AutoSelectDialog": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 120
+                },
+                "FastDialog": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoTreeFarm": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 5.0
+            },
+            "ChestTeleport": {
+                "Key": 54
+            },
+            "ConstellationModifier": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "Custom MonsterId": {
+                "useCustomMonsterId": true
+            },
+            "CustomTeleports": {
+                "Auto": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DelayTime": 12,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Next": 187,
+                "Previous": 189
+            },
+            "DumbEnemies": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "ESP": {
+                "DrawBoxMode": {
+                    "name": "None",
+                    "value": 0
+                },
+                "DrawDistance": true,
+                "DrawName": true,
+                "DrawTracerMode": {
+                    "name": "None",
+                    "value": 0
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Anemoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crimson Agate": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Dendroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Electroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Lumenspar": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Time Trial Challenge": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Puzzle": {
+                        "Luminous Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Warming Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "FontSize": 16,
+                "GlobalFontColor": {
+                    "toggled": true,
+                    "value": 4284901090
+                },
+                "HideCompleted": true,
+                "Range": 200.0
+            },
+            "FallControl": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "General": {
+                "FPS": {
+                    "FpsShow": false
+                },
+                "FastExit": {
+                    "FastExitEnable": true,
+                    "HotkeyExit": 46
+                },
+                "InfoWindow": {
+                    "InfoShow": false
+                },
+                "Logging": {
+                    "ConsoleLogging": false
+                },
+                "MenuKey": 123,
+                "SelectedModule": 5,
+                "StatusWindow": {
+                    "StatusShow": false
+                },
+                "Theme": {
+                    "FontSize": 18
+                }
+            },
+            "GodMode": {
+                "Conditional": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MinHealth": 100.0
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "InteractiveMap": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Scene3": {
+                        "MysteriousMeat": true
+                    },
+                    "Scene5": {
+                        "AbyssHerald": true,
+                        "AbyssMage": true,
+                        "AmethystLump": true,
+                        "BathysmalVishap": true,
+                        "BathysmalVishapHerd": true,
+                        "Hilichurl": true,
+                        "HilichurlChieftain": true,
+                        "HilichurlShooter": true,
+                        "Mitachurl": true,
+                        "RuinGrader": true,
+                        "RuinGuard": true,
+                        "RuinHunter": true,
+                        "RuinSentinel": true,
+                        "Samachurl": true,
+                        "Slime": true,
+                        "Specter": true,
+                        "Whopperflower": true,
+                        "WolvesoftheRift": true
+                    },
+                    "Scene6": {
+                        "AbyssHerald": true,
+                        "AbyssMage": true,
+                        "FatuiMirrorMaiden": true,
+                        "FatuiSkirmisher": true,
+                        "Fungi": true,
+                        "Geovishap": true,
+                        "Hilichurl": true,
+                        "RuinGrader": true,
+                        "RuinGuard": true,
+                        "RuinSentinel": true,
+                        "RuinSerpent": true,
+                        "Slime": true,
+                        "TheBlackSerpents": true,
+                        "TreasureHoarder": true,
+                        "Whopperflower": true,
+                        "WolvesoftheRift": true
+                    }
+                },
+                "SeparatedWindows": false,
+                "ShowCompleted": true,
+                "ShowHDIcons": true
+            },
+            "KillAura": {
+                "DamageMode": {
+                    "toggled": false,
+                    "value": null
+                },
+                "DamageValue": 68888.0,
+                "Enabled": {
+                    "toggled": false,
+                    "value": 122
+                },
+                "InstantDeathMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "OnlyTargeted": false,
+                "PercentDamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageTimes": 2,
+                "Range": 10.0
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseTransPosition": true
+            },
+            "MobVacuum": {
+                "AnimalNPC": false,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 119
+                },
+                "Instantly": true,
+                "MonsterBosses": false,
+                "OnlyTarget": false,
+                "Radius": 40.0,
+                "SetCollider": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "Monster Changer": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "MonsterId": {
+                "CustomMonsterId": 28030313
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 33
+                },
+                "Speed": 24.0
+            },
+            "OculiTeleport": {
+                "Key": 55
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "QuestTeleport": {
+                "QuestTP": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "AttackSpeed": {
+                    "toggled": false,
+                    "value": null
+                },
+                "CustomElement": {
+                    "toggled": false,
+                    "value": null
+                },
+                "ElementType": {
+                    "name": "Pyro",
+                    "value": 1
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiAnimation": {
+                    "toggled": false,
+                    "value": null
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": 118
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "SpeedMultiplier": 5.0,
+                "maxMultiplier": 8,
+                "minMultiplier": 6
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "Visuals": {
+                "AnimationChanger": {
+                    "Debug": true,
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "Browser": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ChestIndicator": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "EmotionChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "PaimonFollow": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "133333333"
+                    },
+                    "UIDWaterMarkPrefix": true
+                },
+                "TextureChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                }
+            }
+        },
+        "tp": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Seelie": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoDestroy": {
+                "DestroyDoodads": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyShields": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 15.0
+            },
+            "AutoLoot": {
+                "AutoDisablePickupWhenAddItemExceedLimit": {
+                    "toggled": false,
+                    "value": null
+                },
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": 117
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "CustomRange": 40.0,
+                "DelayTime": 230,
+                "DelayTimeFluctuation": 120,
+                "Investigate": true,
+                "Others": true,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseDelayTimeFluctuation": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "AutoSelectDialog": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 120
+                },
+                "FastDialog": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoTreeFarm": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 5.0
+            },
+            "ChestTeleport": {
+                "Key": 54
+            },
+            "CustomTeleports": {
+                "Auto": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DelayTime": 12,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Interpolate": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Next": 187,
+                "Previous": 189
+            },
+            "DumbEnemies": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "ESP": {
+                "DrawBoxMode": {
+                    "name": "None",
+                    "value": 0
+                },
+                "DrawDistance": true,
+                "DrawName": true,
+                "DrawTracerMode": {
+                    "name": "None",
+                    "value": 0
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Anemoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crimson Agate": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Dendroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Electroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Lumenspar": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Time Trial Challenge": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Puzzle": {
+                        "Luminous Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Warming Seelie": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "FontSize": 16,
+                "GlobalFontColor": {
+                    "toggled": true,
+                    "value": 4284901090
+                },
+                "HideCompleted": true,
+                "Range": 200.0
+            },
+            "FallControl": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "General": {
+                "FPS": {
+                    "FpsShow": false
+                },
+                "FastExit": {
+                    "FastExitEnable": true,
+                    "HotkeyExit": 46
+                },
+                "InfoWindow": {
+                    "InfoShow": false
+                },
+                "Logging": {
+                    "ConsoleLogging": false
+                },
+                "MenuKey": 123,
+                "StatusWindow": {
+                    "StatusShow": false
+                }
+            },
+            "GodMode": {
+                "Conditional": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MinHealth": 100.0
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "InteractiveMap": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "SeparatedWindows": false,
+                "ShowCompleted": true,
+                "ShowHDIcons": true
+            },
+            "KillAura": {
+                "DamageMode": {
+                    "toggled": false,
+                    "value": null
+                },
+                "DamageValue": 68888.0,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 122
+                },
+                "InstantDeathMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "OnlyTargeted": false,
+                "PercentDamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageTimes": 2,
+                "Range": 10.0
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseTransPosition": true
+            },
+            "MobVacuum": {
+                "AnimalNPC": false,
+                "Enabled": {
+                    "toggled": true,
+                    "value": 119
+                },
+                "Instantly": true,
+                "MonsterBosses": false,
+                "OnlyTarget": false,
+                "Radius": 40.0,
+                "SetCollider": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 33
+                },
+                "Speed": 15.0
+            },
+            "OculiTeleport": {
+                "Key": 55
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "QuestTeleport": {
+                "QuestTP": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "CustomElement": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiAnimation": {
+                    "toggled": false,
+                    "value": null
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": 118
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "maxMultiplier": 8,
+                "minMultiplier": 6
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "VacuumLoot": {
+                "DelayTime": 50,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MobDropRadius": 60.0,
+                "Radius": 40.0
+            },
+            "Visuals": {
+                "AnimationChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "Browser": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ChestIndicator": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "EmotionChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "FPSUnlocker": {
+                    "Enabled": true,
+                    "Fps": 30,
+                    "FpsLimit": 10,
+                    "Limit": true
+                },
+                "PaimonFollow": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "133333333"
+                    },
+                    "UIDWaterMarkPrefix": true
+                },
+                "TextureChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                }
+            }
+        }
+    },
+    "shared": {
+        "General": {
+            "Multi-Account": {
+                "AccConfig": {
+                    "accounts": [
+                        [
+                            193394875,
+                            {
+                                "nickName": "持青伞",
+                                "userID": 193394875
+                            }
+                        ]
+                    ],
+                    "id2Profiles": [
+                        [
+                            193394875,
+                            "a"
+                        ]
+                    ],
+                    "pseudos": [
+                        [
+                            193394875,
+                            "持青伞"
+                        ]
+                    ]
+                },
+                "ShowType": {
+                    "name": "Pseudo",
+                    "value": 0
+                }
+            },
+            "Theme": {
+                "DefaultTheme": "chiqingsan"
+            },
+            "WaitDelayInit": {
+                "InitializationDelay": 30000
+            }
+        },
+        "InteractiveMap": {
+            "CustomPointIndex": 1000075,
+            "LastUserID": 193394875,
+            "accounts": {
+                "193339403": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1675181849209,
+                                    "point_id": 36775
+                                }
+                            ],
+                            "269": [
+                                {
+                                    "complete_timestamp": 1675177717345,
+                                    "point_id": 32511
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1675178533453,
+                                    "point_id": 17343
+                                },
+                                {
+                                    "complete_timestamp": 1675178521299,
+                                    "point_id": 17344
+                                },
+                                {
+                                    "complete_timestamp": 1675179352767,
+                                    "point_id": 36832
+                                },
+                                {
+                                    "complete_timestamp": 1675179395968,
+                                    "point_id": 36843
+                                }
+                            ],
+                            "45": [
+                                {
+                                    "complete_timestamp": 1675181862476,
+                                    "point_id": 36868
+                                }
+                            ]
+                        }
+                    }
+                },
+                "193394875": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1675171382973,
+                                    "point_id": 4735
+                                },
+                                {
+                                    "complete_timestamp": 1676202243291,
+                                    "point_id": 5221
+                                },
+                                {
+                                    "complete_timestamp": 1674579211889,
+                                    "point_id": 6625
+                                },
+                                {
+                                    "complete_timestamp": 1674579215516,
+                                    "point_id": 6655
+                                },
+                                {
+                                    "complete_timestamp": 1674581529702,
+                                    "point_id": 7443
+                                },
+                                {
+                                    "complete_timestamp": 1674579339235,
+                                    "point_id": 7504
+                                },
+                                {
+                                    "complete_timestamp": 1674579207054,
+                                    "point_id": 7509
+                                },
+                                {
+                                    "complete_timestamp": 1674581193503,
+                                    "point_id": 7587
+                                }
+                            ],
+                            "269": [
+                                {
+                                    "complete_timestamp": 1675142323600,
+                                    "point_id": 18627
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1675350321208,
+                                    "point_id": 1881
+                                },
+                                {
+                                    "complete_timestamp": 1676202243705,
+                                    "point_id": 5223
+                                },
+                                {
+                                    "complete_timestamp": 1674579203541,
+                                    "point_id": 6650
+                                },
+                                {
+                                    "complete_timestamp": 1675444284429,
+                                    "point_id": 39550
+                                }
+                            ],
+                            "45": [
+                                {
+                                    "complete_timestamp": 1675354613733,
+                                    "point_id": 13378
+                                }
+                            ],
+                            "46": [
+                                {
+                                    "complete_timestamp": 1675007786787,
+                                    "point_id": 2120
+                                }
+                            ]
+                        },
+                        "5": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1676134105637,
+                                    "point_id": 21761
+                                },
+                                {
+                                    "complete_timestamp": 1676134106127,
+                                    "point_id": 21764
+                                },
+                                {
+                                    "complete_timestamp": 1676134289780,
+                                    "point_id": 21778
+                                },
+                                {
+                                    "complete_timestamp": 1676134123672,
+                                    "point_id": 22852
+                                }
+                            ]
+                        },
+                        "6": {
+                            "44": [
+                                {
+                                    "complete_timestamp": 1675871645841,
+                                    "point_id": 25340
+                                }
+                            ]
+                        }
+                    }
+                },
+                "225227509": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1676064706882,
+                                    "point_id": 1632
+                                },
+                                {
+                                    "complete_timestamp": 1676069239452,
+                                    "point_id": 1773
+                                },
+                                {
+                                    "complete_timestamp": 1676065312475,
+                                    "point_id": 5221
+                                },
+                                {
+                                    "complete_timestamp": 1676065480712,
+                                    "point_id": 5222
+                                },
+                                {
+                                    "complete_timestamp": 1675788239511,
+                                    "point_id": 16137
+                                },
+                                {
+                                    "complete_timestamp": 1675788211478,
+                                    "point_id": 17339
+                                },
+                                {
+                                    "complete_timestamp": 1675615945707,
+                                    "point_id": 24921
+                                },
+                                {
+                                    "complete_timestamp": 1675613126945,
+                                    "point_id": 32790
+                                },
+                                {
+                                    "complete_timestamp": 1675615888474,
+                                    "point_id": 36767
+                                },
+                                {
+                                    "complete_timestamp": 1675788055591,
+                                    "point_id": 36778
+                                },
+                                {
+                                    "complete_timestamp": 1675788547758,
+                                    "point_id": 36820
+                                },
+                                {
+                                    "complete_timestamp": 1676066649858,
+                                    "point_id": 41979
+                                }
+                            ],
+                            "269": [
+                                {
+                                    "complete_timestamp": 1675788522996,
+                                    "point_id": 36737
+                                },
+                                {
+                                    "complete_timestamp": 1676066735556,
+                                    "point_id": 42065
+                                }
+                            ],
+                            "403": [
+                                {
+                                    "complete_timestamp": 1675612491397,
+                                    "point_id": 29173
+                                },
+                                {
+                                    "complete_timestamp": 1675788197974,
+                                    "point_id": 29214
+                                },
+                                {
+                                    "complete_timestamp": 1675617384157,
+                                    "point_id": 29248
+                                },
+                                {
+                                    "complete_timestamp": 1676067279160,
+                                    "point_id": 37109
+                                },
+                                {
+                                    "complete_timestamp": 1675788425657,
+                                    "point_id": 37120
+                                },
+                                {
+                                    "complete_timestamp": 1675788305944,
+                                    "point_id": 37133
+                                },
+                                {
+                                    "complete_timestamp": 1675788282261,
+                                    "point_id": 37161
+                                },
+                                {
+                                    "complete_timestamp": 1675788282236,
+                                    "point_id": 37162
+                                },
+                                {
+                                    "complete_timestamp": 1676067345885,
+                                    "point_id": 41847
+                                },
+                                {
+                                    "complete_timestamp": 1676066666841,
+                                    "point_id": 41859
+                                },
+                                {
+                                    "complete_timestamp": 1676067041368,
+                                    "point_id": 41874
+                                },
+                                {
+                                    "complete_timestamp": 1676066939058,
+                                    "point_id": 41875
+                                },
+                                {
+                                    "complete_timestamp": 1676066870280,
+                                    "point_id": 41878
+                                },
+                                {
+                                    "complete_timestamp": 1676066311160,
+                                    "point_id": 41885
+                                },
+                                {
+                                    "complete_timestamp": 1676066551356,
+                                    "point_id": 41886
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1676065312783,
+                                    "point_id": 5223
+                                },
+                                {
+                                    "complete_timestamp": 1675788023609,
+                                    "point_id": 28945
+                                },
+                                {
+                                    "complete_timestamp": 1676066204864,
+                                    "point_id": 42015
+                                },
+                                {
+                                    "complete_timestamp": 1676066310182,
+                                    "point_id": 42016
+                                },
+                                {
+                                    "complete_timestamp": 1676067713149,
+                                    "point_id": 42033
+                                }
+                            ]
+                        }
+                    }
+                },
+                "253499331": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1675096514901,
+                                    "point_id": 438
+                                },
+                                {
+                                    "complete_timestamp": 1675096669689,
+                                    "point_id": 966
+                                },
+                                {
+                                    "complete_timestamp": 1675696774982,
+                                    "point_id": 4831
+                                },
+                                {
+                                    "complete_timestamp": 1675696774701,
+                                    "point_id": 4841
+                                },
+                                {
+                                    "complete_timestamp": 1675096547629,
+                                    "point_id": 7510
+                                },
+                                {
+                                    "complete_timestamp": 1675095910735,
+                                    "point_id": 28803
+                                },
+                                {
+                                    "complete_timestamp": 1675697998797,
+                                    "point_id": 28861
+                                },
+                                {
+                                    "complete_timestamp": 1675698008516,
+                                    "point_id": 28878
+                                },
+                                {
+                                    "complete_timestamp": 1675697674429,
+                                    "point_id": 28901
+                                },
+                                {
+                                    "complete_timestamp": 1675097060199,
+                                    "point_id": 36787
+                                }
+                            ],
+                            "194": [
+                                {
+                                    "complete_timestamp": 1675095379014,
+                                    "point_id": 12889
+                                }
+                            ],
+                            "269": [
+                                {
+                                    "complete_timestamp": 1675096328194,
+                                    "point_id": 19294
+                                }
+                            ],
+                            "403": [
+                                {
+                                    "complete_timestamp": 1675095927868,
+                                    "point_id": 29238
+                                },
+                                {
+                                    "complete_timestamp": 1675697704250,
+                                    "point_id": 37102
+                                },
+                                {
+                                    "complete_timestamp": 1675697793804,
+                                    "point_id": 37146
+                                },
+                                {
+                                    "complete_timestamp": 1675697820735,
+                                    "point_id": 37152
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1675697705962,
+                                    "point_id": 36821
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "custom_points": {
+                "3": {
+                    "30": [
+                        {
+                            "creation_timestamp": 1675350609614,
+                            "id": 1000000,
+                            "x_pos": -1496.1619873046875,
+                            "y_pos": 284.3760070800781
+                        },
+                        {
+                            "creation_timestamp": 1675350611616,
+                            "id": 1000001,
+                            "x_pos": -1508.490966796875,
+                            "y_pos": 282.50799560546875
+                        },
+                        {
+                            "creation_timestamp": 1675350611618,
+                            "id": 1000002,
+                            "x_pos": -1496.43994140625,
+                            "y_pos": 284.32598876953125
+                        },
+                        {
+                            "creation_timestamp": 1675350611621,
+                            "id": 1000003,
+                            "x_pos": -1495.4019775390625,
+                            "y_pos": 284.45098876953125
+                        },
+                        {
+                            "creation_timestamp": 1675350754434,
+                            "id": 1000004,
+                            "x_pos": -639.5540771484375,
+                            "y_pos": 1706.27197265625
+                        },
+                        {
+                            "creation_timestamp": 1675350754435,
+                            "id": 1000005,
+                            "x_pos": -639.5570068359375,
+                            "y_pos": 1705.509033203125
+                        },
+                        {
+                            "creation_timestamp": 1675350754437,
+                            "id": 1000006,
+                            "x_pos": -557.10302734375,
+                            "y_pos": 1749.572998046875
+                        },
+                        {
+                            "creation_timestamp": 1675350754438,
+                            "id": 1000007,
+                            "x_pos": -557.0850830078125,
+                            "y_pos": 1748.5279541015625
+                        },
+                        {
+                            "creation_timestamp": 1675350754439,
+                            "id": 1000008,
+                            "x_pos": -551.2430419921875,
+                            "y_pos": 1790.4200439453125
+                        },
+                        {
+                            "creation_timestamp": 1675350754443,
+                            "id": 1000009,
+                            "x_pos": -551.2650146484375,
+                            "y_pos": 1790.7020263671875
+                        },
+                        {
+                            "creation_timestamp": 1675350882504,
+                            "id": 1000010,
+                            "x_pos": -658.5020141601563,
+                            "y_pos": 1778.053955078125
+                        },
+                        {
+                            "creation_timestamp": 1675350882506,
+                            "id": 1000011,
+                            "x_pos": -659.656005859375,
+                            "y_pos": 1694.501953125
+                        },
+                        {
+                            "creation_timestamp": 1675350882507,
+                            "id": 1000012,
+                            "x_pos": -659.6740112304688,
+                            "y_pos": 1695.5469970703125
+                        },
+                        {
+                            "creation_timestamp": 1675350882508,
+                            "id": 1000013,
+                            "x_pos": -658.5059814453125,
+                            "y_pos": 1777.2900390625
+                        },
+                        {
+                            "creation_timestamp": 1675350898504,
+                            "id": 1000014,
+                            "x_pos": -685.656005859375,
+                            "y_pos": 1799.8489990234375
+                        },
+                        {
+                            "creation_timestamp": 1675350898506,
+                            "id": 1000015,
+                            "x_pos": -685.6599731445313,
+                            "y_pos": 1799.0899658203125
+                        },
+                        {
+                            "creation_timestamp": 1675350976503,
+                            "id": 1000016,
+                            "x_pos": -751.2509765625,
+                            "y_pos": 1647.06005859375
+                        },
+                        {
+                            "creation_timestamp": 1675350976505,
+                            "id": 1000017,
+                            "x_pos": -751.2470092773438,
+                            "y_pos": 1647.823974609375
+                        },
+                        {
+                            "creation_timestamp": 1675350994507,
+                            "id": 1000018,
+                            "x_pos": -707.6519775390625,
+                            "y_pos": 1853.967041015625
+                        },
+                        {
+                            "creation_timestamp": 1675350994509,
+                            "id": 1000019,
+                            "x_pos": -707.656005859375,
+                            "y_pos": 1853.2030029296875
+                        },
+                        {
+                            "creation_timestamp": 1675351006512,
+                            "id": 1000020,
+                            "x_pos": -711.31201171875,
+                            "y_pos": 1883.969970703125
+                        },
+                        {
+                            "creation_timestamp": 1675351006515,
+                            "id": 1000021,
+                            "x_pos": -711.3330078125,
+                            "y_pos": 1884.251953125
+                        },
+                        {
+                            "creation_timestamp": 1675351283109,
+                            "id": 1000022,
+                            "x_pos": 27.4010009765625,
+                            "y_pos": 1581.7110595703125
+                        },
+                        {
+                            "creation_timestamp": 1675351283111,
+                            "id": 1000023,
+                            "x_pos": 26.832000732421875,
+                            "y_pos": 1583.5880126953125
+                        },
+                        {
+                            "creation_timestamp": 1675351283113,
+                            "id": 1000024,
+                            "x_pos": 27.135009765625,
+                            "y_pos": 1582.583984375
+                        },
+                        {
+                            "creation_timestamp": 1675351283114,
+                            "id": 1000025,
+                            "x_pos": 27.0989990234375,
+                            "y_pos": 1583.613037109375
+                        },
+                        {
+                            "creation_timestamp": 1675351287103,
+                            "id": 1000026,
+                            "x_pos": 5.699005126953125,
+                            "y_pos": 1557.907958984375
+                        },
+                        {
+                            "creation_timestamp": 1675351287106,
+                            "id": 1000027,
+                            "x_pos": 5.69500732421875,
+                            "y_pos": 1557.14501953125
+                        },
+                        {
+                            "creation_timestamp": 1675351287109,
+                            "id": 1000028,
+                            "x_pos": 3.47601318359375,
+                            "y_pos": 1558.926025390625
+                        },
+                        {
+                            "creation_timestamp": 1675351287111,
+                            "id": 1000029,
+                            "x_pos": 3.47198486328125,
+                            "y_pos": 1558.1629638671875
+                        },
+                        {
+                            "creation_timestamp": 1675351287115,
+                            "id": 1000030,
+                            "x_pos": -5.628997802734375,
+                            "y_pos": 1670.25
+                        },
+                        {
+                            "creation_timestamp": 1675351287117,
+                            "id": 1000031,
+                            "x_pos": -5.574005126953125,
+                            "y_pos": 1673.925048828125
+                        },
+                        {
+                            "creation_timestamp": 1675351287118,
+                            "id": 1000032,
+                            "x_pos": -5.6510009765625,
+                            "y_pos": 1670.531005859375
+                        },
+                        {
+                            "creation_timestamp": 1675351287121,
+                            "id": 1000033,
+                            "x_pos": -5.5780029296875,
+                            "y_pos": 1673.1610107421875
+                        },
+                        {
+                            "creation_timestamp": 1675351333417,
+                            "id": 1000034,
+                            "x_pos": 28.78900146484375,
+                            "y_pos": 1500.4849853515625
+                        },
+                        {
+                            "creation_timestamp": 1675351333421,
+                            "id": 1000035,
+                            "x_pos": 28.7860107421875,
+                            "y_pos": 1499.7220458984375
+                        },
+                        {
+                            "creation_timestamp": 1675351439438,
+                            "id": 1000036,
+                            "x_pos": -1101.5860595703125,
+                            "y_pos": 657.8419799804688
+                        },
+                        {
+                            "creation_timestamp": 1675351439441,
+                            "id": 1000037,
+                            "x_pos": -1101.58203125,
+                            "y_pos": 658.6060180664063
+                        },
+                        {
+                            "creation_timestamp": 1675351471454,
+                            "id": 1000038,
+                            "x_pos": -1180.5050048828125,
+                            "y_pos": 756.5919799804688
+                        },
+                        {
+                            "creation_timestamp": 1675351471455,
+                            "id": 1000039,
+                            "x_pos": -1170.5770263671875,
+                            "y_pos": 764.426025390625
+                        },
+                        {
+                            "creation_timestamp": 1675351471460,
+                            "id": 1000040,
+                            "x_pos": -1180.5009765625,
+                            "y_pos": 757.3560180664063
+                        },
+                        {
+                            "creation_timestamp": 1675351471463,
+                            "id": 1000041,
+                            "x_pos": -1180.4830322265625,
+                            "y_pos": 756.3109741210938
+                        },
+                        {
+                            "creation_timestamp": 1675351475449,
+                            "id": 1000042,
+                            "x_pos": -1204.52099609375,
+                            "y_pos": 798.0789794921875
+                        },
+                        {
+                            "creation_timestamp": 1675351475451,
+                            "id": 1000043,
+                            "x_pos": -1204.5250244140625,
+                            "y_pos": 797.3150024414063
+                        },
+                        {
+                            "creation_timestamp": 1675351625505,
+                            "id": 1000044,
+                            "x_pos": -1215.5439453125,
+                            "y_pos": 875.958984375
+                        },
+                        {
+                            "creation_timestamp": 1675351625506,
+                            "id": 1000045,
+                            "x_pos": -1226.7860107421875,
+                            "y_pos": 877.1099853515625
+                        },
+                        {
+                            "creation_timestamp": 1675351625508,
+                            "id": 1000046,
+                            "x_pos": -1226.781982421875,
+                            "y_pos": 877.8740234375
+                        },
+                        {
+                            "creation_timestamp": 1675351625511,
+                            "id": 1000047,
+                            "x_pos": -1226.7640380859375,
+                            "y_pos": 876.8289794921875
+                        },
+                        {
+                            "creation_timestamp": 1675351631501,
+                            "id": 1000048,
+                            "x_pos": -1292.7559814453125,
+                            "y_pos": 719.9249877929688
+                        },
+                        {
+                            "creation_timestamp": 1675351631504,
+                            "id": 1000049,
+                            "x_pos": -1292.751953125,
+                            "y_pos": 720.68798828125
+                        },
+                        {
+                            "creation_timestamp": 1675351653504,
+                            "id": 1000050,
+                            "x_pos": -1318.407958984375,
+                            "y_pos": 974.7169799804688
+                        },
+                        {
+                            "creation_timestamp": 1675351653506,
+                            "id": 1000051,
+                            "x_pos": -1318.4119873046875,
+                            "y_pos": 973.9530029296875
+                        },
+                        {
+                            "creation_timestamp": 1675351667506,
+                            "id": 1000052,
+                            "x_pos": -1278.490966796875,
+                            "y_pos": 1009.43701171875
+                        },
+                        {
+                            "creation_timestamp": 1675351667508,
+                            "id": 1000053,
+                            "x_pos": -1320.7640380859375,
+                            "y_pos": 1009.0170288085938
+                        },
+                        {
+                            "creation_timestamp": 1675351667509,
+                            "id": 1000054,
+                            "x_pos": -1278.512939453125,
+                            "y_pos": 1009.718994140625
+                        },
+                        {
+                            "creation_timestamp": 1675351667512,
+                            "id": 1000055,
+                            "x_pos": -1320.760009765625,
+                            "y_pos": 1009.780029296875
+                        },
+                        {
+                            "creation_timestamp": 1675351673503,
+                            "id": 1000056,
+                            "x_pos": -1377.0,
+                            "y_pos": 984.0139770507813
+                        },
+                        {
+                            "creation_timestamp": 1675351673505,
+                            "id": 1000057,
+                            "x_pos": -1377.0040283203125,
+                            "y_pos": 983.25
+                        },
+                        {
+                            "creation_timestamp": 1675351677504,
+                            "id": 1000058,
+                            "x_pos": -1405.376953125,
+                            "y_pos": 1026.5679931640625
+                        },
+                        {
+                            "creation_timestamp": 1675351677506,
+                            "id": 1000059,
+                            "x_pos": -1405.3990478515625,
+                            "y_pos": 1026.8489990234375
+                        },
+                        {
+                            "creation_timestamp": 1675351715506,
+                            "id": 1000060,
+                            "x_pos": -1488.1199951171875,
+                            "y_pos": 1052.33203125
+                        },
+                        {
+                            "creation_timestamp": 1675351715508,
+                            "id": 1000061,
+                            "x_pos": -1488.116943359375,
+                            "y_pos": 1053.095947265625
+                        },
+                        {
+                            "creation_timestamp": 1675351743509,
+                            "id": 1000062,
+                            "x_pos": -1380.7239990234375,
+                            "y_pos": 1090.083984375
+                        },
+                        {
+                            "creation_timestamp": 1675351743512,
+                            "id": 1000063,
+                            "x_pos": -1380.72802734375,
+                            "y_pos": 1089.321044921875
+                        },
+                        {
+                            "creation_timestamp": 1675351755505,
+                            "id": 1000064,
+                            "x_pos": -1311.802001953125,
+                            "y_pos": 1126.0579833984375
+                        },
+                        {
+                            "creation_timestamp": 1675351755508,
+                            "id": 1000065,
+                            "x_pos": -1311.7850341796875,
+                            "y_pos": 1125.011962890625
+                        },
+                        {
+                            "creation_timestamp": 1675351777510,
+                            "id": 1000066,
+                            "x_pos": -1311.2239990234375,
+                            "y_pos": 1152.094970703125
+                        },
+                        {
+                            "creation_timestamp": 1675351777513,
+                            "id": 1000067,
+                            "x_pos": -1311.22705078125,
+                            "y_pos": 1151.33203125
+                        },
+                        {
+                            "creation_timestamp": 1675351869561,
+                            "id": 1000068,
+                            "x_pos": -1371.406005859375,
+                            "y_pos": 1222.3050537109375
+                        },
+                        {
+                            "creation_timestamp": 1675351869564,
+                            "id": 1000069,
+                            "x_pos": -1371.4019775390625,
+                            "y_pos": 1223.0679931640625
+                        },
+                        {
+                            "creation_timestamp": 1675351967643,
+                            "id": 1000070,
+                            "x_pos": -1295.56201171875,
+                            "y_pos": 639.3090209960938
+                        },
+                        {
+                            "creation_timestamp": 1675351967646,
+                            "id": 1000071,
+                            "x_pos": -1294.8509521484375,
+                            "y_pos": 639.031005859375
+                        },
+                        {
+                            "creation_timestamp": 1675352748608,
+                            "id": 1000072,
+                            "x_pos": -821.9400634765625,
+                            "y_pos": 1799.3900146484375
+                        },
+                        {
+                            "creation_timestamp": 1675352748611,
+                            "id": 1000073,
+                            "x_pos": -822.52099609375,
+                            "y_pos": 1799.885009765625
+                        }
+                    ]
+                },
+                "6": {
+                    "16": [
+                        {
+                            "creation_timestamp": 1675519427543,
+                            "id": 1000074,
+                            "x_pos": -1028.885009765625,
+                            "y_pos": 784.6900024414063
+                        }
+                    ]
+                }
+            },
+            "fixed_points": {
+                "3": {
+                    "160": [
+                        {
+                            "point_id": 8084,
+                            "x_pos": -54.62200927734375,
+                            "y_pos": 2840.215087890625
+                        },
+                        {
+                            "point_id": 8099,
+                            "x_pos": -34.123046875,
+                            "y_pos": 2838.469970703125
+                        }
+                    ],
+                    "30": [
+                        {
+                            "point_id": 985,
+                            "x_pos": -1508.468994140625,
+                            "y_pos": 282.22698974609375
+                        },
+                        {
+                            "point_id": 1147,
+                            "x_pos": -1311.8060302734375,
+                            "y_pos": 1125.2939453125
+                        },
+                        {
+                            "point_id": 1170,
+                            "x_pos": -1380.7060546875,
+                            "y_pos": 1089.0389404296875
+                        },
+                        {
+                            "point_id": 1180,
+                            "x_pos": -1215.52197265625,
+                            "y_pos": 875.677978515625
+                        },
+                        {
+                            "point_id": 1227,
+                            "x_pos": -1278.509033203125,
+                            "y_pos": 1010.4819946289063
+                        },
+                        {
+                            "point_id": 1230,
+                            "x_pos": -1405.39501953125,
+                            "y_pos": 1027.613037109375
+                        },
+                        {
+                            "point_id": 1232,
+                            "x_pos": -1204.5040283203125,
+                            "y_pos": 797.0339965820313
+                        },
+                        {
+                            "point_id": 1235,
+                            "x_pos": -1101.56494140625,
+                            "y_pos": 657.5609741210938
+                        },
+                        {
+                            "point_id": 1244,
+                            "x_pos": -1292.7349853515625,
+                            "y_pos": 719.6430053710938
+                        },
+                        {
+                            "point_id": 1250,
+                            "x_pos": -1170.572998046875,
+                            "y_pos": 765.1900024414063
+                        },
+                        {
+                            "point_id": 1266,
+                            "x_pos": -1294.5799560546875,
+                            "y_pos": 638.9500122070313
+                        },
+                        {
+                            "point_id": 1281,
+                            "x_pos": -1170.5550537109375,
+                            "y_pos": 764.14501953125
+                        },
+                        {
+                            "point_id": 1316,
+                            "x_pos": -1488.0989990234375,
+                            "y_pos": 1052.051025390625
+                        },
+                        {
+                            "point_id": 1324,
+                            "x_pos": -1318.3900146484375,
+                            "y_pos": 973.6719970703125
+                        },
+                        {
+                            "point_id": 1341,
+                            "x_pos": -1376.9830322265625,
+                            "y_pos": 982.968017578125
+                        },
+                        {
+                            "point_id": 1375,
+                            "x_pos": -685.6380004882813,
+                            "y_pos": 1798.8079833984375
+                        },
+                        {
+                            "point_id": 1378,
+                            "x_pos": 28.8070068359375,
+                            "y_pos": 1499.43994140625
+                        },
+                        {
+                            "point_id": 1385,
+                            "x_pos": -1311.2060546875,
+                            "y_pos": 1151.050048828125
+                        },
+                        {
+                            "point_id": 1389,
+                            "x_pos": -551.260986328125,
+                            "y_pos": 1791.4659423828125
+                        },
+                        {
+                            "point_id": 1398,
+                            "x_pos": -1371.384033203125,
+                            "y_pos": 1222.02294921875
+                        },
+                        {
+                            "point_id": 1418,
+                            "x_pos": -658.4840087890625,
+                            "y_pos": 1777.009033203125
+                        },
+                        {
+                            "point_id": 1433,
+                            "x_pos": -557.1070556640625,
+                            "y_pos": 1748.81005859375
+                        },
+                        {
+                            "point_id": 1446,
+                            "x_pos": -639.5360107421875,
+                            "y_pos": 1705.22705078125
+                        },
+                        {
+                            "point_id": 1451,
+                            "x_pos": -711.3109741210938,
+                            "y_pos": 1885.031005859375
+                        },
+                        {
+                            "point_id": 1466,
+                            "x_pos": 27.30401611328125,
+                            "y_pos": 1581.947021484375
+                        },
+                        {
+                            "point_id": 1471,
+                            "x_pos": -659.656005859375,
+                            "y_pos": 1694.501953125
+                        },
+                        {
+                            "point_id": 1512,
+                            "x_pos": -751.22900390625,
+                            "y_pos": 1646.779052734375
+                        },
+                        {
+                            "point_id": 1570,
+                            "x_pos": 5.717010498046875,
+                            "y_pos": 1556.863037109375
+                        },
+                        {
+                            "point_id": 1605,
+                            "x_pos": -5.5570068359375,
+                            "y_pos": 1672.8800048828125
+                        },
+                        {
+                            "point_id": 1634,
+                            "x_pos": 3.493011474609375,
+                            "y_pos": 1557.8809814453125
+                        },
+                        {
+                            "point_id": 1637,
+                            "x_pos": -5.647003173828125,
+                            "y_pos": 1671.2950439453125
+                        },
+                        {
+                            "point_id": 1641,
+                            "x_pos": 26.141998291015625,
+                            "y_pos": 1583.56396484375
+                        },
+                        {
+                            "point_id": 5993,
+                            "x_pos": -707.635009765625,
+                            "y_pos": 1852.9219970703125
+                        },
+                        {
+                            "point_id": 11086,
+                            "x_pos": -1508.487060546875,
+                            "y_pos": 283.2720031738281
+                        },
+                        {
+                            "point_id": 11087,
+                            "x_pos": -1215.5400390625,
+                            "y_pos": 876.7230224609375
+                        },
+                        {
+                            "point_id": 11089,
+                            "x_pos": -1320.7430419921875,
+                            "y_pos": 1008.7349853515625
+                        },
+                        {
+                            "point_id": 1000000,
+                            "x_pos": -1496.1619873046875,
+                            "y_pos": 284.3760070800781
+                        },
+                        {
+                            "point_id": 1000001,
+                            "x_pos": -1508.490966796875,
+                            "y_pos": 282.50799560546875
+                        },
+                        {
+                            "point_id": 1000002,
+                            "x_pos": -1496.43994140625,
+                            "y_pos": 284.32598876953125
+                        },
+                        {
+                            "point_id": 1000003,
+                            "x_pos": -1495.4019775390625,
+                            "y_pos": 284.45098876953125
+                        },
+                        {
+                            "point_id": 1000004,
+                            "x_pos": -639.5540771484375,
+                            "y_pos": 1706.27197265625
+                        },
+                        {
+                            "point_id": 1000005,
+                            "x_pos": -639.5570068359375,
+                            "y_pos": 1705.509033203125
+                        },
+                        {
+                            "point_id": 1000006,
+                            "x_pos": -557.10302734375,
+                            "y_pos": 1749.572998046875
+                        },
+                        {
+                            "point_id": 1000007,
+                            "x_pos": -557.0850830078125,
+                            "y_pos": 1748.5279541015625
+                        },
+                        {
+                            "point_id": 1000008,
+                            "x_pos": -551.2430419921875,
+                            "y_pos": 1790.4200439453125
+                        },
+                        {
+                            "point_id": 1000009,
+                            "x_pos": -551.2650146484375,
+                            "y_pos": 1790.7020263671875
+                        },
+                        {
+                            "point_id": 1000010,
+                            "x_pos": -658.5020141601563,
+                            "y_pos": 1778.053955078125
+                        },
+                        {
+                            "point_id": 1000011,
+                            "x_pos": -659.656005859375,
+                            "y_pos": 1694.501953125
+                        },
+                        {
+                            "point_id": 1000012,
+                            "x_pos": -659.6740112304688,
+                            "y_pos": 1695.5469970703125
+                        },
+                        {
+                            "point_id": 1000013,
+                            "x_pos": -658.5059814453125,
+                            "y_pos": 1777.2900390625
+                        },
+                        {
+                            "point_id": 1000014,
+                            "x_pos": -685.656005859375,
+                            "y_pos": 1799.8489990234375
+                        },
+                        {
+                            "point_id": 1000015,
+                            "x_pos": -685.6599731445313,
+                            "y_pos": 1799.0899658203125
+                        },
+                        {
+                            "point_id": 1000016,
+                            "x_pos": -751.2509765625,
+                            "y_pos": 1647.06005859375
+                        },
+                        {
+                            "point_id": 1000017,
+                            "x_pos": -751.2470092773438,
+                            "y_pos": 1647.823974609375
+                        },
+                        {
+                            "point_id": 1000018,
+                            "x_pos": -707.6519775390625,
+                            "y_pos": 1853.967041015625
+                        },
+                        {
+                            "point_id": 1000019,
+                            "x_pos": -707.656005859375,
+                            "y_pos": 1853.2030029296875
+                        },
+                        {
+                            "point_id": 1000020,
+                            "x_pos": -711.31201171875,
+                            "y_pos": 1883.969970703125
+                        },
+                        {
+                            "point_id": 1000021,
+                            "x_pos": -711.3330078125,
+                            "y_pos": 1884.251953125
+                        },
+                        {
+                            "point_id": 1000022,
+                            "x_pos": 27.4010009765625,
+                            "y_pos": 1581.7110595703125
+                        },
+                        {
+                            "point_id": 1000023,
+                            "x_pos": 26.832000732421875,
+                            "y_pos": 1583.5880126953125
+                        },
+                        {
+                            "point_id": 1000024,
+                            "x_pos": 27.135009765625,
+                            "y_pos": 1582.583984375
+                        },
+                        {
+                            "point_id": 1000025,
+                            "x_pos": 27.0989990234375,
+                            "y_pos": 1583.613037109375
+                        },
+                        {
+                            "point_id": 1000026,
+                            "x_pos": 5.699005126953125,
+                            "y_pos": 1557.907958984375
+                        },
+                        {
+                            "point_id": 1000027,
+                            "x_pos": 5.69500732421875,
+                            "y_pos": 1557.14501953125
+                        },
+                        {
+                            "point_id": 1000028,
+                            "x_pos": 3.47601318359375,
+                            "y_pos": 1558.926025390625
+                        },
+                        {
+                            "point_id": 1000029,
+                            "x_pos": 3.47198486328125,
+                            "y_pos": 1558.1629638671875
+                        },
+                        {
+                            "point_id": 1000030,
+                            "x_pos": -5.628997802734375,
+                            "y_pos": 1670.25
+                        },
+                        {
+                            "point_id": 1000031,
+                            "x_pos": -5.574005126953125,
+                            "y_pos": 1673.925048828125
+                        },
+                        {
+                            "point_id": 1000032,
+                            "x_pos": -5.6510009765625,
+                            "y_pos": 1670.531005859375
+                        },
+                        {
+                            "point_id": 1000033,
+                            "x_pos": -5.5780029296875,
+                            "y_pos": 1673.1610107421875
+                        },
+                        {
+                            "point_id": 1000034,
+                            "x_pos": 28.78900146484375,
+                            "y_pos": 1500.4849853515625
+                        },
+                        {
+                            "point_id": 1000035,
+                            "x_pos": 28.7860107421875,
+                            "y_pos": 1499.7220458984375
+                        },
+                        {
+                            "point_id": 1000036,
+                            "x_pos": -1101.5860595703125,
+                            "y_pos": 657.8419799804688
+                        },
+                        {
+                            "point_id": 1000037,
+                            "x_pos": -1101.58203125,
+                            "y_pos": 658.6060180664063
+                        },
+                        {
+                            "point_id": 1000038,
+                            "x_pos": -1180.5050048828125,
+                            "y_pos": 756.5919799804688
+                        },
+                        {
+                            "point_id": 1000039,
+                            "x_pos": -1170.5770263671875,
+                            "y_pos": 764.426025390625
+                        },
+                        {
+                            "point_id": 1000040,
+                            "x_pos": -1180.5009765625,
+                            "y_pos": 757.3560180664063
+                        },
+                        {
+                            "point_id": 1000041,
+                            "x_pos": -1180.4830322265625,
+                            "y_pos": 756.3109741210938
+                        },
+                        {
+                            "point_id": 1000042,
+                            "x_pos": -1204.52099609375,
+                            "y_pos": 798.0789794921875
+                        },
+                        {
+                            "point_id": 1000043,
+                            "x_pos": -1204.5250244140625,
+                            "y_pos": 797.3150024414063
+                        },
+                        {
+                            "point_id": 1000044,
+                            "x_pos": -1215.5439453125,
+                            "y_pos": 875.958984375
+                        },
+                        {
+                            "point_id": 1000045,
+                            "x_pos": -1226.7860107421875,
+                            "y_pos": 877.1099853515625
+                        },
+                        {
+                            "point_id": 1000046,
+                            "x_pos": -1226.781982421875,
+                            "y_pos": 877.8740234375
+                        },
+                        {
+                            "point_id": 1000047,
+                            "x_pos": -1226.7640380859375,
+                            "y_pos": 876.8289794921875
+                        },
+                        {
+                            "point_id": 1000048,
+                            "x_pos": -1292.7559814453125,
+                            "y_pos": 719.9249877929688
+                        },
+                        {
+                            "point_id": 1000049,
+                            "x_pos": -1292.751953125,
+                            "y_pos": 720.68798828125
+                        },
+                        {
+                            "point_id": 1000050,
+                            "x_pos": -1318.407958984375,
+                            "y_pos": 974.7169799804688
+                        },
+                        {
+                            "point_id": 1000051,
+                            "x_pos": -1318.4119873046875,
+                            "y_pos": 973.9530029296875
+                        },
+                        {
+                            "point_id": 1000052,
+                            "x_pos": -1278.490966796875,
+                            "y_pos": 1009.43701171875
+                        },
+                        {
+                            "point_id": 1000053,
+                            "x_pos": -1320.7640380859375,
+                            "y_pos": 1009.0170288085938
+                        },
+                        {
+                            "point_id": 1000054,
+                            "x_pos": -1278.512939453125,
+                            "y_pos": 1009.718994140625
+                        },
+                        {
+                            "point_id": 1000055,
+                            "x_pos": -1320.760009765625,
+                            "y_pos": 1009.780029296875
+                        },
+                        {
+                            "point_id": 1000056,
+                            "x_pos": -1377.0,
+                            "y_pos": 984.0139770507813
+                        },
+                        {
+                            "point_id": 1000057,
+                            "x_pos": -1377.0040283203125,
+                            "y_pos": 983.25
+                        },
+                        {
+                            "point_id": 1000058,
+                            "x_pos": -1405.376953125,
+                            "y_pos": 1026.5679931640625
+                        },
+                        {
+                            "point_id": 1000059,
+                            "x_pos": -1405.3990478515625,
+                            "y_pos": 1026.8489990234375
+                        },
+                        {
+                            "point_id": 1000060,
+                            "x_pos": -1488.1199951171875,
+                            "y_pos": 1052.33203125
+                        },
+                        {
+                            "point_id": 1000061,
+                            "x_pos": -1488.116943359375,
+                            "y_pos": 1053.095947265625
+                        },
+                        {
+                            "point_id": 1000062,
+                            "x_pos": -1380.7239990234375,
+                            "y_pos": 1090.083984375
+                        },
+                        {
+                            "point_id": 1000063,
+                            "x_pos": -1380.72802734375,
+                            "y_pos": 1089.321044921875
+                        },
+                        {
+                            "point_id": 1000064,
+                            "x_pos": -1311.802001953125,
+                            "y_pos": 1126.0579833984375
+                        },
+                        {
+                            "point_id": 1000065,
+                            "x_pos": -1311.7850341796875,
+                            "y_pos": 1125.011962890625
+                        },
+                        {
+                            "point_id": 1000066,
+                            "x_pos": -1311.2239990234375,
+                            "y_pos": 1152.094970703125
+                        },
+                        {
+                            "point_id": 1000067,
+                            "x_pos": -1311.22705078125,
+                            "y_pos": 1151.33203125
+                        },
+                        {
+                            "point_id": 1000068,
+                            "x_pos": -1371.406005859375,
+                            "y_pos": 1222.3050537109375
+                        },
+                        {
+                            "point_id": 1000069,
+                            "x_pos": -1371.4019775390625,
+                            "y_pos": 1223.0679931640625
+                        },
+                        {
+                            "point_id": 1000070,
+                            "x_pos": -1295.56201171875,
+                            "y_pos": 639.3090209960938
+                        },
+                        {
+                            "point_id": 1000071,
+                            "x_pos": -1294.8509521484375,
+                            "y_pos": 639.031005859375
+                        }
+                    ]
+                },
+                "5": {
+                    "202": [
+                        {
+                            "point_id": 23670,
+                            "x_pos": -123.33899688720703,
+                            "y_pos": 345.9419860839844
+                        },
+                        {
+                            "point_id": 23671,
+                            "x_pos": -129.34100341796875,
+                            "y_pos": 350.302001953125
+                        }
+                    ]
+                },
+                "6": {
+                    "16": [
+                        {
+                            "point_id": 25955,
+                            "x_pos": -276.4469909667969,
+                            "y_pos": 896.5330200195313
+                        },
+                        {
+                            "point_id": 25956,
+                            "x_pos": -286.2569885253906,
+                            "y_pos": 883.31298828125
+                        },
+                        {
+                            "point_id": 25959,
+                            "x_pos": -178.0500030517578,
+                            "y_pos": 800.6339721679688
+                        },
+                        {
+                            "point_id": 25963,
+                            "x_pos": -374.7170104980469,
+                            "y_pos": 1027.241943359375
+                        },
+                        {
+                            "point_id": 25964,
+                            "x_pos": -373.6520080566406,
+                            "y_pos": 1029.9410400390625
+                        },
+                        {
+                            "point_id": 25966,
+                            "x_pos": -364.0329895019531,
+                            "y_pos": 693.7169799804688
+                        },
+                        {
+                            "point_id": 25968,
+                            "x_pos": -507.8070068359375,
+                            "y_pos": 781.1119995117188
+                        },
+                        {
+                            "point_id": 25969,
+                            "x_pos": -507.15301513671875,
+                            "y_pos": 786.60302734375
+                        },
+                        {
+                            "point_id": 25975,
+                            "x_pos": -1015.2219848632813,
+                            "y_pos": 784.3200073242188
+                        },
+                        {
+                            "point_id": 25978,
+                            "x_pos": -818.4019775390625,
+                            "y_pos": 394.64300537109375
+                        },
+                        {
+                            "point_id": 25979,
+                            "x_pos": -797.030029296875,
+                            "y_pos": 236.73399353027344
+                        },
+                        {
+                            "point_id": 25981,
+                            "x_pos": -511.4639892578125,
+                            "y_pos": 567.4580078125
+                        },
+                        {
+                            "point_id": 25986,
+                            "x_pos": -666.5560302734375,
+                            "y_pos": 442.77801513671875
+                        },
+                        {
+                            "point_id": 25990,
+                            "x_pos": -923.6790161132813,
+                            "y_pos": 1066.8349609375
+                        },
+                        {
+                            "point_id": 25993,
+                            "x_pos": -1039.2939453125,
+                            "y_pos": 365.0690002441406
+                        },
+                        {
+                            "point_id": 25995,
+                            "x_pos": -425.7409973144531,
+                            "y_pos": 121.65499877929688
+                        },
+                        {
+                            "point_id": 25996,
+                            "x_pos": -420.5429992675781,
+                            "y_pos": 126.29900360107422
+                        },
+                        {
+                            "point_id": 25997,
+                            "x_pos": -338.89300537109375,
+                            "y_pos": 271.75
+                        },
+                        {
+                            "point_id": 25998,
+                            "x_pos": -335.8349914550781,
+                            "y_pos": 269.36199951171875
+                        },
+                        {
+                            "point_id": 26000,
+                            "x_pos": -278.1319885253906,
+                            "y_pos": 891.4929809570313
+                        },
+                        {
+                            "point_id": 26003,
+                            "x_pos": -177.41600036621094,
+                            "y_pos": 795.0819702148438
+                        },
+                        {
+                            "point_id": 26004,
+                            "x_pos": -371.135986328125,
+                            "y_pos": 1024.4210205078125
+                        },
+                        {
+                            "point_id": 26006,
+                            "x_pos": -507.8529968261719,
+                            "y_pos": 782.4959716796875
+                        },
+                        {
+                            "point_id": 26009,
+                            "x_pos": -1022.989990234375,
+                            "y_pos": 790.8610229492188
+                        },
+                        {
+                            "point_id": 26010,
+                            "x_pos": -1026.7960205078125,
+                            "y_pos": 786.4130249023438
+                        },
+                        {
+                            "point_id": 26013,
+                            "x_pos": -815.6840209960938,
+                            "y_pos": 399.62200927734375
+                        },
+                        {
+                            "point_id": 26014,
+                            "x_pos": -818.10302734375,
+                            "y_pos": 393.2250061035156
+                        },
+                        {
+                            "point_id": 26015,
+                            "x_pos": -794.6589965820313,
+                            "y_pos": 240.39500427246094
+                        },
+                        {
+                            "point_id": 26016,
+                            "x_pos": -779.7360229492188,
+                            "y_pos": 230.3000030517578
+                        },
+                        {
+                            "point_id": 26018,
+                            "x_pos": -510.0979919433594,
+                            "y_pos": 551.8809814453125
+                        },
+                        {
+                            "point_id": 26021,
+                            "x_pos": -667.969970703125,
+                            "y_pos": 441.4909973144531
+                        },
+                        {
+                            "point_id": 26025,
+                            "x_pos": -926.4619750976563,
+                            "y_pos": 1064.239013671875
+                        },
+                        {
+                            "point_id": 26030,
+                            "x_pos": -1043.60498046875,
+                            "y_pos": 358.4169921875
+                        },
+                        {
+                            "point_id": 26038,
+                            "x_pos": -177.7899932861328,
+                            "y_pos": 793.3909912109375
+                        },
+                        {
+                            "point_id": 26042,
+                            "x_pos": -360.5069885253906,
+                            "y_pos": 693.8709716796875
+                        },
+                        {
+                            "point_id": 26044,
+                            "x_pos": -508.4419860839844,
+                            "y_pos": 784.4509887695313
+                        },
+                        {
+                            "point_id": 26051,
+                            "x_pos": -1018.8720092773438,
+                            "y_pos": 788.6749877929688
+                        },
+                        {
+                            "point_id": 26053,
+                            "x_pos": -782.4910278320313,
+                            "y_pos": 228.50100708007813
+                        },
+                        {
+                            "point_id": 26059,
+                            "x_pos": -666.2979736328125,
+                            "y_pos": 437.4840087890625
+                        },
+                        {
+                            "point_id": 26076,
+                            "x_pos": -503.5190124511719,
+                            "y_pos": 780.39599609375
+                        },
+                        {
+                            "point_id": 26715,
+                            "x_pos": -565.9630126953125,
+                            "y_pos": 1136.9229736328125
+                        },
+                        {
+                            "point_id": 26716,
+                            "x_pos": -563.9990234375,
+                            "y_pos": 1134.2900390625
+                        },
+                        {
+                            "point_id": 26717,
+                            "x_pos": -559.0250244140625,
+                            "y_pos": 1139.1519775390625
+                        },
+                        {
+                            "point_id": 26718,
+                            "x_pos": -523.7349853515625,
+                            "y_pos": 981.2100219726563
+                        },
+                        {
+                            "point_id": 26723,
+                            "x_pos": -1055.27197265625,
+                            "y_pos": 697.843017578125
+                        },
+                        {
+                            "point_id": 26724,
+                            "x_pos": -1056.4449462890625,
+                            "y_pos": 700.7050170898438
+                        },
+                        {
+                            "point_id": 26725,
+                            "x_pos": -1048.0870361328125,
+                            "y_pos": 701.93798828125
+                        },
+                        {
+                            "point_id": 26726,
+                            "x_pos": -1045.3780517578125,
+                            "y_pos": 698.7319946289063
+                        },
+                        {
+                            "point_id": 26729,
+                            "x_pos": -1089.9730224609375,
+                            "y_pos": 342.94000244140625
+                        },
+                        {
+                            "point_id": 41298,
+                            "x_pos": -739.3159790039063,
+                            "y_pos": 860.4019775390625
+                        },
+                        {
+                            "point_id": 41299,
+                            "x_pos": -738.5419921875,
+                            "y_pos": 864.614990234375
+                        },
+                        {
+                            "point_id": 41300,
+                            "x_pos": -738.5419921875,
+                            "y_pos": 864.614990234375
+                        },
+                        {
+                            "point_id": 41301,
+                            "x_pos": -745.3690185546875,
+                            "y_pos": 860.989990234375
+                        },
+                        {
+                            "point_id": 41321,
+                            "x_pos": -665.2249755859375,
+                            "y_pos": 955.927001953125
+                        },
+                        {
+                            "point_id": 41322,
+                            "x_pos": -668.031982421875,
+                            "y_pos": 984.9429931640625
+                        },
+                        {
+                            "point_id": 1000074,
+                            "x_pos": -1028.885009765625,
+                            "y_pos": 784.6900024414063
+                        }
+                    ]
+                }
+            }
+        },
+        "PatternScanner": {
+            "m_CheckSumTimestamp": {
+                "UnityPlayer.dll": 133174964306288311,
+                "UserAssembly.dll": 133174964213837296
+            }
+        }
+    }
+}
