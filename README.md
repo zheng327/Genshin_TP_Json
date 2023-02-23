@@ -4,7 +4,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/zheng327/Genshin_TP_Json?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/zheng327/Genshin_TP_Json?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/zheng327/Genshin_TP_Json?style=social)  
+![GitHub contributors](https://img.shields.io/github/contributors/zheng327/Genshin_TP_Json)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/zheng327/Genshin_TP_Json)
+![GitHub Release Date](https://img.shields.io/github/release-date/zheng327/Genshin_TP_Json)
 ![GitHub all releases](https://img.shields.io/github/downloads/zheng327/Genshin_TP_Json/total)  
 本json需要配合*ak/bk/ac*使用  
 ### 食用方法：  
