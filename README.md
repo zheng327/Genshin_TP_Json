@@ -1,3 +1,5 @@
 # Genshin_TP_Json
 原神传送坐标文件收集
-### [Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json)
+### [Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json)  
+### [Json_Integration](https://github.com/Xcating/Json_Integration)  
+
