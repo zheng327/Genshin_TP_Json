@@ -13,6 +13,5 @@
 #### https://www.kdocs.cn/l/clbwQmVi3djK  
 #### https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh  
 ### 收集的Json合集（链接合集原作者仓库）：  
-#### [Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json)   
-#### [Json_Integration](https://github.com/Xcating/Json_Integration)  
-
+#### [Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json) 作者：[持青伞(chiqingsan)](https://github.com/chiqingsan)  
+#### [Json_Integration](https://github.com/Xcating/Json_Integration) 作者：[茶亭(Xcating)](https://github.com/Xcating)
