@@ -17,6 +17,6 @@
 #### [Json_Integration](https://github.com/Xcating/Json_Integration) 作者：[茶亭(Xcating)](https://github.com/Xcating)
 
 ### 更新日志：
-v0.2:
-Teyvat_TP_Json_v1.6 -> Teyvat_TP_Json_v1.6.1
-Json_Integration_version19.5 -> Json_Integration_version20
+#### v0.2:
+-Teyvat_TP_Json_v1.6 -> Teyvat_TP_Json_v1.6.1  
+-Json_Integration_version19.5 -> Json_Integration_version20  
