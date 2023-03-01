@@ -18,5 +18,6 @@
 
 ### 更新日志：
 #### v0.2:
--Teyvat_TP_Json_v1.6 -> Teyvat_TP_Json_v1.6.1  
--Json_Integration_version19.5 -> Json_Integration_version20  
+- 原神3.5更新
+-- Teyvat_TP_Json_v1.6 -> Teyvat_TP_Json_v1.6.1  
+-- Json_Integration_version19.5 -> Json_Integration_version20  
